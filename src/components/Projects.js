@@ -23,7 +23,7 @@ const Projects = () => {
                 <div className="projects__card">
                     <h3>Wallets</h3>
                     <img src={wallets} alt="Wallets Landing Page" />
-                    <p>Integrating wallet SDKs such as wallet connect with web applications. 
+                    <p>Integrating web applications using wallet APIs and SDKs such as wallet connect, Coinbase Wallet SDK, and Circle APIs.  
                     </p>
 
                     <a href="" target="_blank" className="button">Site</a>
